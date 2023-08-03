@@ -1,0 +1,7 @@
+C:\Users\diego.tellaroli\Documents\projetos\nullByteAdder\nullByteAdder\bin\Debug\nullByteAdder.exe.config
+C:\Users\diego.tellaroli\Documents\projetos\nullByteAdder\nullByteAdder\bin\Debug\nullByteAdder.exe
+C:\Users\diego.tellaroli\Documents\projetos\nullByteAdder\nullByteAdder\bin\Debug\nullByteAdder.pdb
+C:\Users\diego.tellaroli\Documents\projetos\nullByteAdder\nullByteAdder\obj\Debug\nullByteAdder.csproj.AssemblyReference.cache
+C:\Users\diego.tellaroli\Documents\projetos\nullByteAdder\nullByteAdder\obj\Debug\nullByteAdder.csproj.CoreCompileInputs.cache
+C:\Users\diego.tellaroli\Documents\projetos\nullByteAdder\nullByteAdder\obj\Debug\nullByteAdder.exe
+C:\Users\diego.tellaroli\Documents\projetos\nullByteAdder\nullByteAdder\obj\Debug\nullByteAdder.pdb
